@@ -1,0 +1,11 @@
+#title{
+    border: solid;
+    border-radius: 30px;
+    border-width: 5px;
+    border-color: #5555;
+}
+
+#form_text{
+    font-size: 25px;
+    font-weight: bold;
+}
